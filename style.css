@@ -1,3 +1,14 @@
 body{
-    background-color: aquamarine;
+    background-color: whitesmoke;
+    width: 500px;
+}
+
+.btnstyle{
+    width: 100px;
+    color: aqua;
+    background-color: black;
+}
+
+.card{
+    width: 18rem;
 }
